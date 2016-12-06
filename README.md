@@ -4,7 +4,12 @@ c-cedilla-fedora
 Simple shell script to automate fixing Fedora's compose table to allow
 using the '+c combination to generate c-cedilla (ç) when using a keyboard
 set up as US International with deadkeys.
- 
+
+Tested on
+=========
+
+* Fedora 25
+
 LICENSE
 =======
 
