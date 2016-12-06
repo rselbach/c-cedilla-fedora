@@ -5,6 +5,8 @@ Simple shell script to automate fixing Fedora's compose table to allow
 using the '+c combination to generate c-cedilla (ç) when using a keyboard
 set up as US International with deadkeys.
 
+See https://www.robteix.com/2016/12/06/cedilha-no-fedora-25/
+
 Tested on
 =========
 
@@ -13,7 +15,8 @@ Tested on
 LICENSE
 =======
 
-Copyright (c) 2016 Roberto Selbach <roberto@selbach.ca> All rights reserved.
+Copyright (c) 2016 Roberto Selbach (roberto@selbach.ca)  
+All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
